@@ -3,7 +3,7 @@ This repository presents a complete end-to-end pipeline for **Predictive Mainten
 
 ---
 
-## 📌 Project Workflow
+## Project Workflow
 
 |          Stage           |                                        Technique                                    |
 |--------------------------|-------------------------------------------------------------------------------------|
@@ -14,7 +14,7 @@ This repository presents a complete end-to-end pipeline for **Predictive Mainten
 
 ---
 
-## 🚀 Notebooks in This Repository
+## Notebooks in This Repository
 
 |          Notebook        |                                      Description                                         |
 |--------------------------|------------------------------------------------------------------------------------------|
@@ -25,7 +25,7 @@ This repository presents a complete end-to-end pipeline for **Predictive Mainten
 
 ---
 
-## 🧠 Key Features
+## Key Features
 
 ✔ Feature engineering: cycles, degradation trend, rolling window stats  
 ✔ Time-series modeling using sliding window sequences  
@@ -36,7 +36,7 @@ This repository presents a complete end-to-end pipeline for **Predictive Mainten
 
 ---
 
-## 📊 Model Performance 
+## Model Performance 
 
 |           Model          | RMSE ↓ | 
 |--------------------------|--------|
@@ -47,7 +47,7 @@ This repository presents a complete end-to-end pipeline for **Predictive Mainten
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 - Python, NumPy, Pandas, Matplotlib, Seaborn  
 - Scikit-Learn, XGBoost  
 - TensorFlow / Keras (LSTM, DNN)  
@@ -55,7 +55,7 @@ This repository presents a complete end-to-end pipeline for **Predictive Mainten
 
 ---
 
-## 🔮 Applications
+## Applications
 🔹 Aircraft engine health monitoring  
 🔹 Industrial equipment failure prediction  
 🔹 IoT-based predictive maintenance  
@@ -63,17 +63,17 @@ This repository presents a complete end-to-end pipeline for **Predictive Mainten
 
 ---
 
-## 📈 Repository Structure
-├── baseline.ipynb
-├── rf_xgb_lstm_pred.ipynb
-├── multimodal_pred.ipynb
-├── RUL_pred.ipynb
-├── data/ (Not included due to size)
-└── README.md
+## Repository Structure
+── baseline.ipynb
+── rf_xgb_lstm_pred.ipynb
+── multimodal_pred.ipynb
+── RUL_pred.ipynb
+── data/ (Not included due to size)
+── README.md
 
 ---
 
-## 🧑‍💻 Author
+## Author
 **Sofika M**  
 AI | Deep Learning | Predictive Analytics  
 
